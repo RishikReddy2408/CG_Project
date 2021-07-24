@@ -2,7 +2,9 @@
 #include<GL/glut.h>
 #include<math.h>
 #include <stdlib.h>
+
 # define M_PI 3.142
+
 void border();
 void tree1();
 void color();
